@@ -4,7 +4,6 @@
 
   <groupId>com.text</groupId>
   <artifactId>myweb</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>myweb</name>
@@ -35,4 +34,5 @@
       </plugin>
     </plugins>
   </build>
+  <version>1.0</version>
 </project>
